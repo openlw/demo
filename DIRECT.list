@@ -71,3 +71,6 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,botion.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-KEYWORD,socket
+DOMAIN-KEYWORD,topic
+DOMAIN-KEYWORD,api
